@@ -3,9 +3,8 @@
         <div class="home-main">
             <div class="content">
                 <span>welcome foodies</span>
-                <h3>Original taste from Mexico 😋</h3>
-                <p>We guarantee to use fresh food with the best quality. Customers will enjoy Mexican cuisine with
-                    explosive, sophisticated flavors.</p>
+                <h3>Original taste from Imphal 😋</h3>
+                <p>We guarantee to use fresh food with the best quality. </p>
                 <router-link @click="scrollToTop()" to="/menu" class="btn">order now</router-link>
             </div>
             <div class="image">
